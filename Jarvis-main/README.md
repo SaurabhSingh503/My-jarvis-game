@@ -1,7 +1,7 @@
 # Jarvis
 
 ## Introduction
-Our project, Jarvis, is an innovative intelligent assistant tailored to support students in their academic endeavors. By simply invoking the command `Jarvis`, students can ask any question and receive immediate assistance, making studying more interactive and efficient.Jarvis is designed to be a comprehensive study aid, combining advanced technology with user-friendly features to enhance the learning experience for students. 
+My project, Jarvis, is an innovative intelligent assistant tailored to support students in their academic endeavors. By simply invoking the command `Jarvis`, students can ask any question and receive immediate assistance, making studying more interactive and efficient.Jarvis is designed to be a comprehensive study aid, combining advanced technology with user-friendly features to enhance the learning experience for students. 
 
 
 In addition to providing answers, Jarvis features a session tracker that helps students monitor the number of study sessions they have completed. This allows students to keep track of their progress and stay motivated. Another key feature is the distractor detection system, which identifies when a student is distracted and helps them stay focused on their studies.
