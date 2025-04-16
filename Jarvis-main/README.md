@@ -83,6 +83,3 @@ npm start
 ```
 
 
-## License
-
-This project is licensed under the [Apache-2.0 license](https://github.com/Ganaik2004/Jarvis/blob/main/LICENSE).
