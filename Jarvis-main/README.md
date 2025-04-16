@@ -51,7 +51,7 @@ The distractor detection feature helps you stay focused. If the system detects t
 <strong>Step 1:</strong> Clone the Repository:
 
 ```bash
-git clone https://github.com/Sambit-Mondal/Status-Code.git
+git clone https://github.com/SaurabhSingh503/Status-Code.git
 cd Status-Code
 ```
 <strong>Step 2:</strong> Install dependencies for both client and server:
